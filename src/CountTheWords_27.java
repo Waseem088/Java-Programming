@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class CountTheWords {
 	
-	//String str = “Having 3+ years of industry experience in Software Testing as a Software Test Engineer QA in Schneider Electric”;
+	//String str = â€œHaving 3+ years of industry experience in Software Testing as a Software Test Engineer QA in Schneider Electricâ€;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
